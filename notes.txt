@@ -1,0 +1,3 @@
+change root package.json:  "start": "cd server && npm run start",
+
+remove "__dirname" from server.ts
